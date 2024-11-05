@@ -61,10 +61,13 @@ Os provedores de serviços em nuvem adotam um modelo de pagamento conforme o uso
 ## Service Level Agreement (SLA)
 É um documento que pretende gerir as expectativas do fornecedor de serviços e do cliente, relativamente à qualidade do serviço entregue, medindo e validando se os parâmetros previamente acordados são cumpridos.
 
-Alguns percentis comumente usados e o tempo estimado de não conformidade com a disponibilidade esperada:
-`Objetivo	  Não conformidade por semana	  Não conformidade por mês	  Não conformidade por ano
-  99%	      1,68 hora	                    7.20 horas	                3,65 dias
-  99,90%	  10.10 minutos	                43.20 minutos	              8,76 horas
-  99,95%	  5 minutos	                    21.60 minutos	              4,38 horas
-  99,99%	  1,01 minuto	                  4,32 minutos	              52,56 minutos
-  99,999%	  6 segundos	                  25,90 segundos	            5,26 minutos`
+## Tempo Estimado de Não Conformidade com a Disponibilidade Esperada
+
+| Objetivo | Não Conformidade por Semana | Não Conformidade por Mês | Não Conformidade por Ano |
+|----------|-----------------------------|---------------------------|---------------------------|
+| 99%      | 1,68 horas                  | 7,20 horas               | 3,65 dias                 |
+| 99,90%   | 10,10 minutos               | 43,20 minutos            | 8,76 horas                |
+| 99,95%   | 5 minutos                   | 21,60 minutos            | 4,38 horas                |
+| 99,99%   | 1,01 minuto                 | 4,32 minutos             | 52,56 minutos             |
+| 99,999%  | 6 segundos                  | 25,90 segundos           | 5,26 minutos              |
+
