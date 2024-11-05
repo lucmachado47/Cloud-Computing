@@ -13,7 +13,7 @@ Computação em nuvem é a virtualização dos serviços de computação, fornec
 
 ## Modelos de Nuvem
 
-A computação em nuvem pode ser dividida em quatro modelos principais:
+### A computação em nuvem pode ser dividida em quatro modelos principais:
 - `Nuvem privada:`
   - Ambientes em nuvem no próprio datacenter.
   - As organizações são responsáveis por operar os serviços que fornecem.
@@ -30,19 +30,19 @@ A computação em nuvem pode ser dividida em quatro modelos principais:
 ## Despesas `CapEx` e `Opex`
 As despesas relacionadas à infraestrutura de TI são divididas entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure):
 
-# Capex (despesa de capitais)
+### Capex (despesa de capitais)
 - São despesas relacionadas à aquisição de infraestrutura de TI, como datacenters, servidores, mobiliário e refrigeração.
 - Esse custo inicial tende a diminuir com o tempo, pois o investimento é feito uma vez, enquanto os custos contínuos para manter a infraestrutura são pagos posteriormente.
   
-# Opex (despesas operacionais)
+### Opex (despesas operacionais)
 - São despesas contínuas para operar e manter a infraestrutura, como consumo de energia, internet, manutenção e atualizações de software.
 
 ## Modelo de Consumo
 Os provedores de serviços em nuvem adotam um modelo de pagamento conforme o uso, ou pay-as-you-go. Isso significa que os recursos podem ser aumentados ou reduzidos de acordo com a demanda, e os custos são cobrados com base no uso efetivo.
 
-## Principais Fornecedores de Nuvem
+# Principais Fornecedores de Nuvem
 
-# Alguns dos principais provedores de computação em nuvem incluem:
+### Alguns dos principais provedores de computação em nuvem incluem:
 - Amazon Web Services (AWS): conhecida pela variedade de serviços e presença global.
 - Microsoft Azure: integrada com o ecossistema Microsoft, popular em ambientes corporativos.
 - Google Cloud Platform (GCP): forte em soluções de análise de dados e aprendizado de máquina.
