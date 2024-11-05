@@ -71,3 +71,39 @@ Os provedores de serviços em nuvem adotam um modelo de pagamento conforme o uso
 | 99,99%   | 1,01 minuto                 | 4,32 minutos             | 52,56 minutos             |
 | 99,999%  | 6 segundos                  | 25,90 segundos           | 5,26 minutos              |
 
+# Serviços de Nuvem: IaaS, PaaS e SaaS
+
+## Tipos de Serviço de Nuvem
+
+A computação em nuvem oferece diferentes tipos de serviços para atender às necessidades de usuários e empresas. Eles incluem:
+
+### 1. IaaS (Infrastructure as a Service)
+   - **Descrição**: Fornece infraestrutura de TI virtualizada pela internet, incluindo máquinas virtuais, armazenamento e redes.
+   - **Exemplos**: Microsoft Azure, Amazon Web Services (AWS), Google Compute Engine.
+   - **Uso Comum**: Permite a criação de servidores virtuais e configuração de redes com controle total do sistema operacional e armazenamento, ideal para empresas que querem gerenciar sua própria infraestrutura.
+
+### 2. PaaS (Platform as a Service)
+   - **Descrição**: Fornece uma plataforma completa que inclui infraestrutura, middleware e ferramentas para desenvolvimento e execução de aplicações.
+   - **Exemplos**: Azure App Service, Google App Engine, Heroku.
+   - **Uso Comum**: Ideal para desenvolvedores que querem criar, testar e implantar aplicativos rapidamente sem gerenciar infraestrutura subjacente.
+
+### 3. SaaS (Software as a Service)
+   - **Descrição**: Oferece software acessível via navegador, gerenciado pelo provedor e utilizado diretamente pelo usuário.
+   - **Exemplos**: Microsoft 365, Google Workspace, Salesforce.
+   - **Uso Comum**: Aplicativos prontos para uso, onde o provedor cuida de tudo, como manutenção, segurança e atualizações.
+
+## Modelo de Responsabilidade Compartilhada
+
+O modelo de responsabilidade compartilhada define as responsabilidades do provedor de nuvem e do cliente para garantir segurança e gerenciamento de dados. 
+
+- **Provedor de Nuvem**: Responsável pela segurança da infraestrutura subjacente, incluindo hardware, redes e centros de dados.
+- **Cliente**: Responsável pela segurança dos dados, configuração de rede e gerenciamento de contas de usuário dentro do ambiente contratado.
+
+O grau de responsabilidade varia de acordo com o tipo de serviço:
+- **IaaS**: O cliente tem maior responsabilidade, incluindo o gerenciamento de sistemas operacionais e dados.
+- **PaaS**: O cliente é responsável pelos dados e pela gestão das aplicações, enquanto o provedor cuida do ambiente de execução.
+- **SaaS**: O provedor gerencia a maior parte do serviço, enquanto o cliente foca no gerenciamento de acesso e nos dados utilizados.
+
+Esse modelo garante uma divisão clara para que tanto o provedor quanto o cliente saibam quais partes são de sua responsabilidade, promovendo maior segurança e eficiência na gestão de dados e infraestrutura.
+
+
