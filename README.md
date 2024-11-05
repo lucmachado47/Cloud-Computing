@@ -42,7 +42,7 @@ Os provedores de serviços em nuvem adotam um modelo de pagamento conforme o uso
 
 ## Principais Fornecedores de Nuvem
 
-#Alguns dos principais provedores de computação em nuvem incluem:
+# Alguns dos principais provedores de computação em nuvem incluem:
 - Amazon Web Services (AWS): conhecida pela variedade de serviços e presença global.
 - Microsoft Azure: integrada com o ecossistema Microsoft, popular em ambientes corporativos.
 - Google Cloud Platform (GCP): forte em soluções de análise de dados e aprendizado de máquina.
