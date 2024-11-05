@@ -47,3 +47,24 @@ Os provedores de serviços em nuvem adotam um modelo de pagamento conforme o uso
 - Microsoft Azure: integrada com o ecossistema Microsoft, popular em ambientes corporativos.
 - Google Cloud Platform (GCP): forte em soluções de análise de dados e aprendizado de máquina.
 
+## Principais benefícios da computação em nuvem
+
+- `Alta disponibilidade:` Refere-se aos serviços entregáveis. Se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
+- `Escabilidade:` Refere-se à capacidade de ajustar recursos para atender as demandas.
+- `Elasticidade:` Refere-se à capacidade de expandir os recursos atráves de um salto repentino acentuado na demanda, da mesma forma em que podem ser reduzidos nas quedas de demanda.
+- `Confiabilidade:` Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente.
+- `Previsibilidade:` Permite que você avance com confiança, seja no desempenho ou no custo.
+- `Segurança:` A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes, mas a implementação de muitas são feitas pelo próprio usuário.
+- `Governança:` A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora da conformidade com seus padrões corporativos e fornece estratégias de mitigação.
+- `Gerenciabilidade:` Um dos principais benefícios da Cloud Computing são as opções de capacidade de gerenciamento dos recursos na nuvem.
+
+## Service Level Agreement (SLA)
+É um documento que pretende gerir as expectativas do fornecedor de serviços e do cliente, relativamente à qualidade do serviço entregue, medindo e validando se os parâmetros previamente acordados são cumpridos.
+
+Alguns percentis comumente usados e o tempo estimado de não conformidade com a disponibilidade esperada:
+`Objetivo	  Não conformidade por semana	  Não conformidade por mês	  Não conformidade por ano
+  99%	      1,68 hora	                    7.20 horas	                3,65 dias
+  99,90%	  10.10 minutos	                43.20 minutos	              8,76 horas
+  99,95%	  5 minutos	                    21.60 minutos	              4,38 horas
+  99,99%	  1,01 minuto	                  4,32 minutos	              52,56 minutos
+  99,999%	  6 segundos	                  25,90 segundos	            5,26 minutos`
